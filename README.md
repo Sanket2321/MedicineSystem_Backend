@@ -1,5 +1,6 @@
 Medicine Management REST API
-Overview:
+
+
 The Medicine Management REST API is a Spring Boot-based application designed to streamline the management of medicines, scanned data, and associated patient information. It provides CRUD operations 
 for various entities like medicines, users, patients, and scanned records, enabling seamless integration with healthcare systems.
 
